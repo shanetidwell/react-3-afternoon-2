@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.17.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2"
@@ -13,7 +14,7 @@
     "react-scripts": "1.0.14"
   },
   "scripts": {
-    "start": "concurrently \"npm run start-js\" \"npm run db\"",
+    "start": "set PORT=3002 && concurrently \"npm run start-js\" \"npm run db\"",
     "start-js": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

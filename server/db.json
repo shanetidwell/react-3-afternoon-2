@@ -137,14 +137,11 @@
       "featured": true
     },
     {
-      "id": 14,
-      "name": "Emily Keator",
-      "userID": 2,
-      "image": "https://latimesherocomplex.files.wordpress.com/2015/04/ca-0413-the-avengers-153.jpg",
-      "title": "How to De-Bug",
+      "title": "Cool stuff",
       "subTitle": "Not recommended for Arachnophobes",
-      "text": "Step 1: Obtain a spider egg from a traveler from a distant land. \nStep 2: Raise your spider to a gigantic size over 20-odd years. \nStep 3: When a bug appears in your code, allow the giant spider to go on a rampage and eat every bug in the building. No humans!! Unless they are annoying. \nStep 4: This is really a terrible idea, but at least you will frighten your enemies.",
-      "featured": true
+      "image": "https://latimesherocomplex.files.wordpress.com/2015/04/ca-0413-the-avengers-153.jpg",
+      "text": "https://latimesherocomplex.files.wordpress.com/2015/04/ca-0413-the-avengers-153.jpg",
+      "id": 14
     },
     {
       "id": 15,
@@ -221,6 +218,48 @@
       "image": "https://unsplash.it/700/400",
       "text": "dasj;lfksjfl;aksdjflaskj",
       "id": 22
+    },
+    {
+      "tile": "HOw to Train your dragon",
+      "subTitle": "crazy style",
+      "image": "https://vignette.wikia.nocookie.net/monster/images/6/6e/DragonRed.jpg/revision/latest?cb=20160809235604",
+      "text": "It's easy",
+      "id": 23
+    },
+    {
+      "tile": "slkdjf",
+      "subTitle": "sdlkfj",
+      "image": "https://vignette.wikia.nocookie.net/monster/images/6/6e/DragonRed.jpg/revision/latest?cb=20160809235604",
+      "text": "slkfj",
+      "id": 24
+    },
+    {
+      "title": "Cool Beans",
+      "subTitle": "bacon",
+      "image": "",
+      "text": "sdlkfjaslfjasdlfjasfd;lajsdflk",
+      "id": 25
+    },
+    {
+      "title": "sdlfjs",
+      "subTitle": "sdlkf",
+      "image": "sdlk",
+      "text": "",
+      "id": 26
+    },
+    {
+      "title": "ldksjf",
+      "subTitle": "sldkfj",
+      "image": "",
+      "text": "sldjflsdjk",
+      "id": 27
+    },
+    {
+      "title": "ldksjf",
+      "subTitle": "sldkfj",
+      "image": "",
+      "text": "sdfjklsdf",
+      "id": 28
     }
   ],
   "users": [
@@ -301,6 +340,18 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "Shane",
+      "img": "",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "name": "Shane",
+      "img": "",
+      "desc": "xldkjfld",
+      "id": 14
     }
   ]
 }
